@@ -25,7 +25,7 @@ const ContactListStyled = styled.div`
   }
 
   button:hover {
-    background-color: #c82333;
+    background-color: #007c07;
   }
 `;
 
