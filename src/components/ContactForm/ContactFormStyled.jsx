@@ -14,7 +14,7 @@ const ContactFormStyled = styled.form`
 
   button {
     padding: 8px 16px;
-    background-color: #007bff;
+    background-color: #007c077d;
     color: #fff;
     border: none;
     border-radius: 4px;
